@@ -18,5 +18,6 @@ Projekat je podeljen u zasebne celine i svaka celina ima svoju ulogu.<br/>
 **Implementation**<br/>
 **Api**
 ## Dijagram baze podataka
+![Screenshot (25)](https://user-images.githubusercontent.com/85969552/122402294-a3bf0a80-cf7d-11eb-8478-7288eb4472d1.jpg)
 
 
