@@ -1,0 +1,48 @@
+C:\Users\Aleksandra\Desktop\Movies\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\Aleksandra\Desktop\Movies\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\Aleksandra\Desktop\Movies\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\Aleksandra\Desktop\Movies\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\Aleksandra\Desktop\Movies\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\Movies\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandra\Desktop\Movies\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\Movies\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\Movies\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\Movies\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\Aleksandra\Desktop\Movies\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\Aleksandra\Desktop\Movies\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\Admin\Downloads\Movies (1)\Movies\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\Admin\Downloads\Movies (1)\Movies\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\Admin\Downloads\Movies (1)\Movies\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\Admin\Downloads\Movies (1)\Movies\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\Admin\Downloads\Movies (1)\Movies\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Movies (1)\Movies\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Movies (1)\Movies\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Movies (1)\Movies\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Movies (1)\Movies\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Movies (1)\Movies\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\Admin\Downloads\Movies (1)\Movies\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\Admin\Downloads\Movies (1)\Movies\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\Admin\Downloads\Movies123\Movies\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\Admin\Downloads\Movies123\Movies\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\Admin\Downloads\Movies123\Movies\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\Admin\Downloads\Movies123\Movies\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\Admin\Downloads\Movies123\Movies\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Movies123\Movies\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Movies123\Movies\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Movies123\Movies\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Movies123\Movies\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Movies123\Movies\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\Admin\Downloads\Movies123\Movies\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\Admin\Downloads\Movies123\Movies\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\Aleksandra\Desktop\Movies123\Movies123\Movies\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\Aleksandra\Desktop\Movies123\Movies123\Movies\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\Aleksandra\Desktop\Movies123\Movies123\Movies\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\Aleksandra\Desktop\Movies123\Movies123\Movies\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\Aleksandra\Desktop\Movies123\Movies123\Movies\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\Movies123\Movies123\Movies\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandra\Desktop\Movies123\Movies123\Movies\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\Movies123\Movies123\Movies\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\Movies123\Movies123\Movies\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\Movies123\Movies123\Movies\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\Aleksandra\Desktop\Movies123\Movies123\Movies\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\Aleksandra\Desktop\Movies123\Movies123\Movies\Domain\obj\Debug\net5.0\Domain.pdb
